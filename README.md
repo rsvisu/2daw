@@ -4,12 +4,12 @@ Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones 
 ## Asignaturas
 
 ### Desarrollo Servidor:
-Ejercicios de PHP.
-👉 **[Ir al Repositorio de PHP](https://github.com/rsvisu/2daw-php)**
+Ejercicios de PHP:
+👉 **[Enlace](https://github.com/rsvisu/2daw-php)**
 
 ### Desarrollo Cliente:
-Ejercicios de JavaScript.
-👉 **[Ir](https://github.com/rsvisu/2daw-js)**
+Ejercicios de JavaScript:
+👉 **[Enlace](https://github.com/rsvisu/2daw-js)**
 
 ---
 *Este repositorio actúa como índice. Haz clic en los enlaces para ver el código fuente.*
