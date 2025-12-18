@@ -1,5 +1,5 @@
 # 2º DAW
-Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones Web. Aquí encontrarás el código organizado por tecnologías.
+Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones Web. Aquí encontrarás el código organizado por asignaturas.
 
 ## Asignaturas
 
