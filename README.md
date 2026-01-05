@@ -7,9 +7,6 @@ Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones 
 Ejercicios de PHP:  
 https://github.com/rsvisu/2daw_php
 
-Aqui se pueden visualizar estos ejercicios en acción (menos los que dependen de una DB):  
-https://2daw_php.karu.es/  
-
 ### Desarrollo Cliente:
 Ejercicios de JavaScript:  
 https://github.com/rsvisu/2daw_js
