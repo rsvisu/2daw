@@ -5,7 +5,10 @@ Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones 
 
 ### Desarrollo Servidor:
 Ejercicios de PHP:  
-https://github.com/rsvisu/2daw_php
+https://github.com/rsvisu/2daw_php  
+
+Proyecto de practica de Laravel:  
+https://github.com/rsvisu/laraideas
 
 ### Desarrollo Cliente:
 Ejercicios de JavaScript:  
