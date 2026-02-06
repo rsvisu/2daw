@@ -4,14 +4,20 @@ Bienvenido a mi repositorio central de prácticas de Desarrollo de Aplicaciones 
 ## Asignaturas
 
 ### Desarrollo Servidor:
-Ejercicios de PHP:  
+#### Ejercicios: 
+PHP:  
 https://github.com/rsvisu/2daw_php  
 
+#### Proyectos:
 Proyecto de practica de Laravel:  
 https://github.com/rsvisu/laraideas
 
+Proyecto de practica de Laravel más Vue:  
+https://github.com/rsvisu/laravue
+
 ### Desarrollo Cliente:
-Ejercicios de JavaScript:  
+#### Ejercicios:
+Javascript:  
 https://github.com/rsvisu/2daw_js
 
 ---
