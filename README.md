@@ -2,24 +2,34 @@
 
 Repositorio índice de mi segundo curso de Desarrollo de Aplicaciones Web (2025-2026).
 
-## Asignaturas
+### Asignaturas
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 **Desarrollo Servidor**
-- [2daw_php](https://github.com/rsvisu/2daw_php) — Ejercicios de PHP
-- [laraideas](https://github.com/rsvisu/laraideas) — Proyecto de práctica con Laravel
-- [laravue](https://github.com/rsvisu/laravue) — Proyecto de práctica con Laravel y Vue
+- Ejercicios de PHP: [2daw_php](https://github.com/rsvisu/2daw_php)
+- Proyecto de práctica con Laravel: [laraideas](https://github.com/rsvisu/laraideas)
+- Proyecto de práctica con Laravel y Vue: [laravue](https://github.com/rsvisu/laravue)
 
 **Desarrollo Cliente**
-- [2daw_js](https://github.com/rsvisu/2daw_js) — Ejercicios de JavaScript
+- Ejercicios de JavaScript: [2daw_js](https://github.com/rsvisu/2daw_js)
 
-## TFG — Nexus
+### TFG: Nexus
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 Asistente con IA para la web del CPIFP Los Enlaces.
 
-- [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend) — API
-- [PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget) — Widget de chat
-- [PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) — Panel de administración
+- API: [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend)
+- Widget de chat: [PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget)
+- Panel de administración: [PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard)
 
-## Prácticas — Campus Digital
+### Prácticas: Campus Digital
 
-- [CampusDigital](https://github.com/rsvisu/CampusDigital) — Diario y proyectos de las prácticas
+- Diario y proyectos de las prácticas: [CampusDigital](https://github.com/rsvisu/CampusDigital)
