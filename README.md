@@ -2,7 +2,7 @@
 
 Repositorio índice de mi segundo curso de Desarrollo de Aplicaciones Web (2025-2026).
 
-### Asignaturas
+## Asignaturas
 
 #### Desarrollo Servidor
 
@@ -18,9 +18,7 @@ Repositorio índice de mi segundo curso de Desarrollo de Aplicaciones Web (2025-
 |---|---|
 | Ejercicios de JavaScript | [2daw_js](https://github.com/rsvisu/2daw_js) |
 
-### TFG
-
-#### Nexus
+## TFG: Nexus
 
 Asistente con IA para la web del CPIFP Los Enlaces.
 
@@ -30,9 +28,7 @@ Asistente con IA para la web del CPIFP Los Enlaces.
 | Widget de chat | [PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget) |
 | Panel de administración | [PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) |
 
-### Prácticas
-
-#### Campus Digital
+## Prácticas: Campus Digital
 
 | Descripción | Repositorio |
 |---|---|
