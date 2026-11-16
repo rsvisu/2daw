@@ -1,7 +1,7 @@
 # 2º DAW
 
-![Curso](https://img.shields.io/badge/curso-2025--2026-blue)
-![Estado](https://img.shields.io/badge/estado-finalizado-success)
+![Curso](https://img.shields.io/badge/Curso-2025--2026-blue)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-success)
 
 Repositorio índice de mi segundo curso de Desarrollo de Aplicaciones Web (2025-2026).
 
