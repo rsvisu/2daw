@@ -27,9 +27,7 @@ Asistente con IA para la web del CPIFP Los Enlaces. Los visitantes le preguntan 
 
 | Descripción | Repositorio |
 |---|---|
-| API | [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend) |
-| Widget de chat | [PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget) |
-| Panel de administración | [PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) |
+| Descripción del proyecto, capturas y enlaces a la API, el widget y el panel | [Nexus](https://github.com/rsvisu/Nexus) |
 
 ## Prácticas: Campus Digital
 
